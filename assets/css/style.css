@@ -1,0 +1,176 @@
+*{
+  padding:0;
+  margin:0;
+}
+#logo{
+  position:absolute;
+  top:14px; left:110px;
+  font-size:45px;
+  color:white;
+}
+.login-contaner{
+height:80px;
+width:100%;
+background-color: #3d5b99;
+position: relative;
+font-family:verdana;
+}
+#email{
+position: absolute;
+top:10px; right:320px;
+color:white;
+}
+#password{
+position: absolute;
+top:10px; right:125px;
+color:white;
+height:25px;
+}
+#login{
+position: absolute;
+top:30px; right:60px;
+color:white;
+background-color:rgb(42, 42, 197);
+border:solid 0.7px rgb(46, 45, 45);
+border-radius:3px;
+width:50px;
+height:25px;
+}
+.login-form input{
+border:solid 1.1px rgb(46, 45, 45);
+height:19px;
+}
+.login-form{
+color:white;
+position: absolute;
+top:2px; left:1170px;
+}
+#login:hover{
+background-color:rgb(40, 40, 107);
+}
+#forgot{
+text-decoration: none;
+color:rgb(136, 161, 241);
+position:absolute;
+top:46px;
+cursor: pointer;
+}
+.signup-contaner{
+background-color:white;
+height:600px;
+width:1000px;
+font-family:verdana;
+position:relative;
+}
+#sign-na{
+height:30px;
+    width:200px;
+    height:40px;
+    border-radius: 5px;
+    border:solid rgb(98, 98, 163) 1px;
+    margin:5px;
+    padding-left:10px;
+}
+#sign-mo{
+    width:429px;
+    height:40px;
+    border-radius: 5px;
+    border:solid rgb(98, 98, 163) 1px;
+    margin:5px;
+    padding-left:10px;
+}
+#sign-na:hover,#sign-mo:hover,#sign-pass:hover{
+border:solid red 1px;
+}
+#sign-pass{
+    width:429px;
+    height:40px;
+    border-radius: 5px;
+    border:solid rgb(98, 98, 163) 1px;
+    margin:5px;
+    padding-left:10px;
+}
+#hh1{
+margin:13px;
+}
+#hh4{
+margin-left:7px;
+font-size:18px;
+}
+#fade{
+color:rgb(109, 104, 107);
+margin-left:5px;
+}
+#signup-button{
+background-color: green;
+width:200px;
+height:35px;
+border-radius:5px;
+color:white;
+font-size: 20px;
+text-align:center;
+margin-left:5px;
+margin-top:10px;
+border:solid gray;
+}
+#signup-button:hover{
+background-color:rgb(68, 158, 46);
+}
+.radio{
+margin:7px;
+}
+.radio input{
+margin-left:4px;
+}
+p{
+font-size:12px;
+margin-left:07px;
+}
+.create{
+text-decoration: none;
+margin-left:8px;
+}
+.move-signup{
+position:absolute;
+top:10px; left:680px;
+}
+.left-part{
+position:absolute;
+top:50px; left:100px;
+font-size:13px;
+}
+.logo2{
+height:250px;
+width:550px;
+}
+.info-contaner{
+height:200px;
+width:100%;
+}
+#lang{
+font-size:13px;
+}
+.info-contaner a{
+margin-right:7px;
+text-decoration: none;
+}
+#lang input{
+height:20px;
+width:35px;
+}
+#infooo{
+margin-top:10px;
+font-size:14px;
+}
+.line10{
+width:100%;
+
+}
+#line11{
+width:600px;
+}
+.info-contaner{
+position:absolute;
+left:150px;
+overflow: hidden;
+}
